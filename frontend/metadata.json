@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise EMS - ABC Technologies",
+  "description": "Enterprise-grade Employee Management System featuring employee directory, payroll, attendance, leave management, performance tracking, meeting scheduler, analytics reports, and multi-role dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
